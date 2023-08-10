@@ -1,0 +1,11 @@
+笔记仓库: https://gitee.com/xiaolaoshi2021/notes-2303.git
+maven课程案例仓库:https://gitee.com/xiaolaoshi2021/maven-parent-demo.git
+订单交易案例:https://gitee.com/xiaolaoshi2021/csmall-demo-parent.git
+mybatis源码阅读文档:https://sparrowzoo.feishu.cn/docx/RRP0dbv4torhpsxJo06cTtPYnHh?from=from_copylink
+luban后台前端:https://gitee.com/xiaolaoshi2021/luban-admin-front.git
+luban前台前端:https://gitee.com/xiaolaoshi2021/luban-front.git
+luban后端:https://gitee.com/xiaolaoshi2021/luban-project.git
+worker git地址：https://gitee.com/xiaolaoshi2021/worker-parent.git
+
+鲁班演示后台前端:http://dev.admin.front.luban.p.yufeiworld.com/
+鲁班演示前台前端:http://dev.front.luban.p.yufeiworld.com/
